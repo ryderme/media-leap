@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #007bff;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+#profile-container {
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    padding: 20px;
+    margin: auto;
+    max-width: 300px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+#instagram-url {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+    color: #17a2b8;
+}
+
+#open-instagram {
+    display: inline-block;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #28a745;
+    border: none;
+    padding: 0.375rem 0.75rem;
+    border-radius: 0.25rem;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-appearance: button;
+    text-transform: none;
+}
+
+#open-instagram:hover {
+    background-color: #218838;
+}
