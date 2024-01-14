@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Media Leap",
-    "description": "Media Leap is a revolutionary Chrome extension designed to seamlessly connect users to their favorite social media profiles across various platforms. With a single click, users can effortlessly leap from one profile to another, discovering and engaging with content creators on Twitter, Instagram, Facebook, and more. ",
+    "description": "A quick way to view and track social media profiles with a simple right-click operation",
     "version": "0.3",
     "icons": {
         "16": "images/icon-16.png",
