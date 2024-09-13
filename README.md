@@ -1,4 +1,4 @@
-# media_leap
+# media-leap
 ## 英文介绍
 ### Function Introduction
 Media Leap is a Chrome browser extension designed to provide users with a quick and convenient way to view and track social media profiles. With a simple right-click menu operation, users can transition from the social media platform they are currently browsing to the same user's page on other platforms, such as from Twitter to Instagram or Facebook.
